@@ -11,6 +11,12 @@
 
 _Get started using GitHub in less than an hour._
 
+I will come back to this later.
+
+Private remote repositories are not free on GitHub.
+I have found that Git on it's own works fine when working locally on your own.
+
+
 </header>
 
 <!--
